@@ -1,0 +1,15 @@
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/bin/Debug/net6.0/OOP
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/bin/Debug/net6.0/OOP.deps.json
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/bin/Debug/net6.0/OOP.runtimeconfig.json
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/bin/Debug/net6.0/OOP.dll
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/bin/Debug/net6.0/OOP.pdb
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.dll
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/refint/OOP.dll
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.pdb
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/OOP.genruntimeconfig.cache
+/Users/ali200119/Desktop/OOP_Inheritance_Access-modifiers_Encapsulation/OOP/OOP/obj/Debug/net6.0/ref/OOP.dll
