@@ -1,1 +1,1 @@
-# OOP_Inheritance_Access-modifiers_Encapsulation
+Homework for Thursday (15.12.2022)
