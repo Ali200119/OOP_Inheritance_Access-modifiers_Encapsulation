@@ -5,6 +5,27 @@ namespace OOP.Models
 	{
 		public string name;
 		public string color;
+		private int _horsePower;
+		protected int maxSpeed;
+		public int Year { get; set; }
+		public int HorsePower
+		{
+			get
+			{
+				if (_horsePower > 100)
+				{
+					return _horsePower;
+				}
+
+				return -1;
+			}
+
+			set
+			{
+				_horsePower = value;
+			}
+		}
+
 
 		public Car()
 		{
